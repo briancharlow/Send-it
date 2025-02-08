@@ -1,0 +1,10 @@
+I didn't know what to include for you in the Frontend, :-(
+
+    So i made this change, for your folder to get tracked by git. lol.
+
+    Namaste. (I dont watch anime, i hope that is japanese for sorry.)
+
+
+
+   but i included the json, you asked for.
+   
