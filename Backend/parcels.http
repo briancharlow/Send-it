@@ -1,0 +1,5 @@
+
+GET http://localhost:3000/parcels
+#-----GETS ALL THE parcels FROM THE DATABASE THAT EXIST
+
+######
